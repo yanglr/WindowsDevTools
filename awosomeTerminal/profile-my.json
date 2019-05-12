@@ -1,0 +1,133 @@
+{
+    "defaultProfile": "{08b5e85b-3615-463d-8df1-70bc4703863f}",
+    "initialRows": 30,
+    "initialCols": 120,
+    "alwaysShowTabs": true,
+    "showTerminalTitleInTitlebar": true,
+    "experimental_showTabsInTitlebar": true,
+    "profiles": [
+        {
+            "startingDirectory": "%USERPROFILE%",
+            "guid": "{08b5e85b-3615-463d-8df1-70bc4703863f}",
+            "name": "cmd",
+            "colorscheme": "Campbell",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#FFFFFF",
+            "cursorShape": "bar",
+            "commandline": "cmd.exe",
+            "fontFace": "Consolas",
+            "fontSize": 12,
+            "acrylicOpacity": 0.75,
+            "useAcrylic": true,
+            "closeOnExit": true,
+            "padding": "0, 0, 0, 0"
+        },
+        {
+            "startingDirectory": "%USERPROFILE%",
+            "guid": "{95e05ea2-6bad-4896-bcdf-a4f96c885cc8}",
+            "name": "PowerShell",
+            "background": "#002731",
+            "colorscheme": "Campbell",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#FFFFFF",
+            "cursorShape": "bar",
+            "commandline": "powershell.exe",
+            "fontFace": "Consolas",
+            "fontSize": 12,
+            "acrylicOpacity": 0.5,
+            "useAcrylic": false,
+            "closeOnExit": true,
+            "padding": "0, 0, 0, 0"
+        },
+        {
+            "guid": "{78e390db-1bff-4533-9d7c-20f53d8bafa1}",
+            "name": "WSL",
+            "colorscheme": "Campbell",
+            "historySize": 9001,
+            "snapOnInput": true,
+            "cursorColor": "#FFFFFF",
+            "cursorShape": "bar",
+            "commandline": "wsl ~",
+            "fontFace": "Consolas",
+            "fontSize": 12,
+            "acrylicOpacity": 0.75,
+            "useAcrylic": true,
+            "closeOnExit": false,
+            "padding": "0, 0, 0, 0",
+            "icon": "C:\\Users\\$Username\\Desktop\\Prompts\\wsl.ico"
+        }
+    ],
+    "schemes": [
+        {
+            "name": "Campbell",
+            "foreground": "#A7B191", 
+            "background": "#0C0C0C",
+            "colors": [
+                "#0C0C0C",
+                "#C50F1F",
+                "#13A10E",
+                "#C19C00",
+                "#0037DA",
+                "#881798",
+                "#3A96DD",
+                "#CCCCCC",
+                "#767676",
+                "#E74856",
+                "#16C60C",
+                "#F9F1A5",
+                "#3B78FF",
+                "#B4009E",
+                "#61D6D6",
+                "#F2F2F2"
+            ]
+        },
+        {
+            "name": "Solarized Dark",
+            "foreground": "#FDF6E3",
+            "background": "#073642",
+            "colors": [
+                "#073642",
+                "#D30102",
+                "#859900",
+                "#B58900",
+                "#268BD2",
+                "#D33682",
+                "#2AA198",
+                "#EEE8D5",
+                "#002B36",
+                "#CB4B16",
+                "#586E75",
+                "#657B83",
+                "#839496",
+                "#6C71C4",
+                "#93A1A1",
+                "#FDF6E3"
+            ]
+        },
+        {
+            "name": "Solarized Light",
+            "foreground": "#073642",
+            "background": "#FDF6E3",
+            "colors": [
+                "#073642",
+                "#D30102",
+                "#859900",
+                "#B58900",
+                "#268BD2",
+                "#D33682",
+                "#2AA198",
+                "#EEE8D5",
+                "#002B36",
+                "#CB4B16",
+                "#586E75",
+                "#657B83",
+                "#839496",
+                "#6C71C4",
+                "#93A1A1",
+                "#FDF6E3"
+            ]
+        }
+    ]
+}
