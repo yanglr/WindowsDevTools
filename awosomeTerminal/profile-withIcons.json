@@ -9,7 +9,7 @@
         {
             "startingDirectory": "%USERPROFILE%",
             "guid": "{08b5e85b-3615-463d-8df1-70bc4703863f}",
-            "name": "cmd",
+            "name": "CMD",
             "colorscheme": "Campbell",
             "historySize": 9001,
             "snapOnInput": true,
