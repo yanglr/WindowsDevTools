@@ -1,0 +1,114 @@
+{
+    "defaultProfile": "{4e3d057e-68c7-47a6-8b02-463ed9ff3365}", 
+    "initialRows": 30, 
+    "initialCols": 120, 
+    "alwaysShowTabs": true, 
+    "showTerminalTitleInTitlebar": true, 
+    "experimental_showTabsInTitlebar": true, 
+    "profiles": [
+        {
+            "guid": "{4e3d057e-68c7-47a6-8b02-463ed9ff3365}", 
+            "name": "cmd", 
+            "colorscheme": "Campbell", 
+            "historySize": 9001, 
+            "snapOnInput": true, 
+            "cursorColor": "#FFFFFF", 
+            "cursorShape": "bar", 
+            "commandline": "cmd.exe", 
+            "fontFace": "Courier New", 
+            "fontSize": 12, 
+            "acrylicOpacity": 0.75, 
+            "useAcrylic": true, 
+            "closeOnExit": false, 
+            "padding": "0, 0, 0, 0"
+        }, 
+        {
+            "guid": "{82b48ae7-b0b7-4576-8ed5-b40748b05316}", 
+            "name": "PowerShell", 
+            "background": "#012456", 
+            "colorscheme": "Campbell", 
+            "historySize": 9001, 
+            "snapOnInput": true, 
+            "cursorColor": "#FFFFFF", 
+            "cursorShape": "bar", 
+            "commandline": "powershell.exe", 
+            "fontFace": "Courier New", 
+            "fontSize": 12, 
+            "acrylicOpacity": 0.5, 
+            "useAcrylic": false, 
+            "closeOnExit": false, 
+            "padding": "0, 0, 0, 0"
+        }
+    ], 
+    "schemes": [
+        {
+            "name": "Campbell", 
+            "foreground": "#F2F2F2", 
+            "background": "#0C0C0C", 
+            "colors": [
+                "#0C0C0C", 
+                "#C50F1F", 
+                "#13A10E", 
+                "#C19C00", 
+                "#0037DA", 
+                "#881798", 
+                "#3A96DD", 
+                "#CCCCCC", 
+                "#767676", 
+                "#E74856", 
+                "#16C60C", 
+                "#F9F1A5", 
+                "#3B78FF", 
+                "#B4009E", 
+                "#61D6D6", 
+                "#F2F2F2"
+            ]
+        }, 
+        {
+            "name": "Solarized Dark", 
+            "foreground": "#FDF6E3", 
+            "background": "#073642", 
+            "colors": [
+                "#073642", 
+                "#D30102", 
+                "#859900", 
+                "#B58900", 
+                "#268BD2", 
+                "#D33682", 
+                "#2AA198", 
+                "#EEE8D5", 
+                "#002B36", 
+                "#CB4B16", 
+                "#586E75", 
+                "#657B83", 
+                "#839496", 
+                "#6C71C4", 
+                "#93A1A1", 
+                "#FDF6E3"
+            ]
+        }, 
+        {
+            "name": "Solarized Light", 
+            "foreground": "#073642", 
+            "background": "#FDF6E3", 
+            "colors": [
+                "#073642", 
+                "#D30102", 
+                "#859900", 
+                "#B58900", 
+                "#268BD2", 
+                "#D33682", 
+                "#2AA198", 
+                "#EEE8D5", 
+                "#002B36", 
+                "#CB4B16", 
+                "#586E75", 
+                "#657B83", 
+                "#839496", 
+                "#6C71C4", 
+                "#93A1A1", 
+                "#FDF6E3"
+            ]
+        }
+    ]
+}
