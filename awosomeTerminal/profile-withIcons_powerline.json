@@ -35,7 +35,7 @@
             "cursorColor": "#FFFFFF",
             "cursorShape": "bar",
             "commandline": "powershell.exe",
-            "fontFace": "Consolas",
+            "fontFace": "Sarasa Mono T SC",
             "fontSize": 12,
             "acrylicOpacity": 0.5,
             "useAcrylic": false,
